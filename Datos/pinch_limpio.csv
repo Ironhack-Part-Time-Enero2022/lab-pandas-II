@@ -1,0 +1,6 @@
+,Stream Name,Supply Temperature,Target Temperature,dT Min Contrib,Heat Capacity Flowrate,Supply Shift,Target Shift,Tipo corriente,Heat Flow
+0,2,25,100,10,1.68,35,110,COLD,126.0
+1,4,100,60,10,6.42,90,50,HOT,256.8
+2,16,147,500,10,21.8,157,510,COLD,7695.400000000001
+3,15,500,90,10,21.8,490,80,HOT,8938.0
+4,17,25,230,10,7.46,35,240,COLD,1529.3
